@@ -61,7 +61,7 @@ Stammdaten
 |
  ABC-Analyse 
 |
- Pareto-Analyse: 20% der Artikel → 78% des Schwunds 
+ Pareto-Analyse: 60% der Artikel → 78% des Schwunds 
 |
 |
  Schwundanalyse 
@@ -111,7 +111,7 @@ Stammdaten
 Filiale Zentrum
 **
 |
- Höchster Schwund-Wert (25.7%) — Diebstahlrisiko im Stadtgebiet 
+ Höchster Schwund-Wert (15.56%) — Diebstahlrisiko im Stadtgebiet 
 |
 |
 **
